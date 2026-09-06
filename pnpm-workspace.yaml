@@ -1,5 +1,7 @@
 allowBuilds:
   '@prisma/engines': true
+  inngest-cli: set this to true or false
   prisma: true
+  protobufjs: set this to true or false
   sharp: true
   unrs-resolver: true
